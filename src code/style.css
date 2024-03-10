@@ -48,3 +48,6 @@ button {
   font-size: 24px;
   color: rgb(0, 0, 0);
 }
+#pannel-buttons {
+  padding-bottom: 5px;
+}
